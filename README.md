@@ -4,4 +4,6 @@
 Nesta aula aprendemos como utilizar os comandos básicos do **GIT**
 Também aprendemos como enviar nosso projeto para o **GitHub**
 
+E agora já sabemos a funcionalidade do aqrquivo README.md
+
 Data da aula: *25/08/2025* ;)
